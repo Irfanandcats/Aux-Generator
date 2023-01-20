@@ -1,8 +1,8 @@
 # Aux Generator
 Generate new auxs for your own use!
 
-Please use this properly, eg. using them on Roblox or programs allowed to run these.
-These all are made from lua, some may be executed on unsupported programming languages such as JavaScript.
+Please use this properly, this is compatible for Roblox only.
+JavaScript and other unsupported files are welcome, you may need to use HttpService.
 
 # Use
 Please download this file if you aren't using a program that doesn't require importing.
@@ -19,6 +19,7 @@ Steps:
 1. Open Roblox Studio. ( Download it here: https://www.roblox.com/create ) ( It must be https://www.roblox.com/, otherwise it may be fake. )
 2. Make a new place or use one if you have a workplace already.
 3. Insert a new script into ServerScriptService, called AuxGenerator.
-  Your code may be represented as this:```lua
+  Your code may be represented as this:
+  ```lua
   
   ```
