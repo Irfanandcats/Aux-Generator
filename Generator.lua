@@ -1,6 +1,6 @@
 -- Generator.lua
 
-<!DOCTYPE luau>
+--<!DOCTYPE luau>
 wait(20)
 
-</luau>
+--</luau>
