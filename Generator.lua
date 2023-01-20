@@ -1,6 +1,6 @@
 -- Generator.lua
 
-<!DOCTYPE lua>
-print('hi')
+<!DOCTYPE luau>
+wait(20)
 
-</lua>
+</luau>
